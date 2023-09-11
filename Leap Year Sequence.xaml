@@ -63,7 +63,7 @@
       <AssemblyReference>UiPath.Workflow</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap2010:Annotation.AnnotationText="Description: A sequence checking for leap year using C# If operator." DisplayName="Leap_Year_Sequence" sap:VirtualizedContainerService.HintSize="496,659" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence sap2010:Annotation.AnnotationText="Description: A sequence checking for leap year using C#  Ternary operator." DisplayName="Leap_Year_Sequence" sap:VirtualizedContainerService.HintSize="496,659" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:Int32" Name="Year" />
       <Variable x:TypeArguments="x:String" Name="Message" />
